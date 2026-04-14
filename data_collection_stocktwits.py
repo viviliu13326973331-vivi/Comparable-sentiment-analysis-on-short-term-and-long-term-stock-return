@@ -67,7 +67,7 @@ def save_to_csv(df, filename):
 
 
 
-api_key = "stw_62b819896193e347452861b97c916a49189755370a23511c63901b3f11cb1711"
+api_key = "xxx"
 
 
 symbols = ["NVDA", "AMD", "AAPL", "MSFT",
