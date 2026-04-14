@@ -1,1 +1,1 @@
-# Comparable-sentiment-analysis-on-short-term-and-long-term-stock-return
+# Correlation Between Market Sentiment and Stock Returns
