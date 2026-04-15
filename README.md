@@ -1,6 +1,8 @@
 # Correlation Between Market Sentiment and Stock Returns
 
-This analysis investigates the relationship between sentiment and stock returns across multiple time windows. The aim is to assess whether sentiment signals influence stock price movements within different time horizons. Data taken are from 10 stocks and from 2024-12-31 to 2025-12-30, around 2500 rows.
+This analysis investigates the relationship between sentiment and stock returns across multiple time windows. The aim is to assess whether sentiment signals influence stock price movements within different time horizons. 
+
+The sentiment data is obtained from the comment of Stocktwits platfrom and sentiment scores are generated using VADER. Stock return data is obtained from yahoo finance. The sample includes major U.S. listed firms across multiple sectors, including technology (Apple, Microsoft, NVIDIA, AMD, Meta, Alphabet), financial services (JPMorgan Chase), energy (ExxonMobil), and consumer goods (Coca-Cola), as well as Tesla representing the electric vehicle industry. In addition, we include the Invesco QQQ Trust ETF as a proxy for the overall Nasdaq 100 market performance. Data taken are from 10 stocks and from 2024-12-31 to 2025-12-30, around 2500 rows.
 
 
 
