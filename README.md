@@ -16,8 +16,9 @@ There is no significant relationship between market sentiment and stock return a
 | 90            | 0.123       | 0.393   | 50          |
 
 
-The correlation coefficient fluctuates between -0.005 and 0.123, the relationship between remains weak and there is no value exceeding 0.15 across all time windows. As time windows increase, the relationship become stronger, shown in the graph below.
+The correlation coefficient fluctuates between -0.005 and 0.123, the relationship between remains weak and there is no value exceeding 0.15 across all time windows. As time windows increase, the relationship become stronger, shown in the graph below. The significant level are unstable but larger than 0.05 across all time windows. 
 
 
 <img width="1713" height="1137" alt="image" src="https://github.com/user-attachments/assets/cf329a27-526f-437d-9abf-29fed3d45a47" />
 
+This finding suggests that sentiment may have a limited or indirect impact on stock prices in this sample.
